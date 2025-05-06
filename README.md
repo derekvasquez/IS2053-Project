@@ -10,7 +10,7 @@ This project analyzes over 4,000 space missions to find trends in launches, succ
 
 ## 📁 Files
 - `Project.ipynb` – Code and graphs for the project  
-- `Space_Corrected.csv` – Cleaned version of the dataset  
+- `Space Corrected.csv` – Cleaned version of the dataset  
 - `requirements.txt` – List of Python packages used  
 - `README.md` – Project summary  
 
